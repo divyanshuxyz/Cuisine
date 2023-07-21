@@ -20,7 +20,7 @@ Installation:
 
 Clone the repository.
 Install the required Python packages using pip install -r requirements.txt.
-Run the app using streamlit run app.py.
+Run the app using streamlit run streamlit.py.
 Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
@@ -28,7 +28,7 @@ License:
 This project is licensed under the MIT License.
 
 Contact:
-For any questions or inquiries, feel free to contact us at example@email.com.
+For any questions or inquiries, feel free to contact us at divyanshuxyz26@gmail.com.
 
 By following this template, you provide potential users and contributors with a clear understanding of what your project does, how they can use it, how to set it up, and how they can contribute. You may also consider adding badges to your project, such as the build status, license, or stars, to make it more visually appealing and informative.
 
